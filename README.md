@@ -1,1 +1,1 @@
-# GM-RANK-BOARD
+# gm-rank-board
